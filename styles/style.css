@@ -1,0 +1,11 @@
+.prev-icon-style{
+    background-color: red;
+    opacity: 50%;
+}
+.icon{
+    width: 20px;
+}
+.coloum-new{
+    display: flex;
+    flex-direction: column;
+}
